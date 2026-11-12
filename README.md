@@ -1,4 +1,4 @@
-<img src="assets/logo.webp" alt="AlertWork logo" width="96" align="right">
+<img src="assets/logo.webp" alt="AlertWork logo" width="72" align="right">
 
 # AlertWork
 
@@ -6,7 +6,9 @@
 
 [Add to Chrome](https://chromewebstore.google.com/detail/alertwork/pdnpndkfmldfhcpcpkpfpammkkcakfjd) · [Visit AlertWork](https://alertwork.online) · [View Dylan's portfolio](https://dylanfox.work)
 
-![AlertWork product interface](assets/preview.png)
+<p><img src="assets/preview.png" alt="AlertWork product graphic illustrating page-text monitoring and audio alerts" width="860"></p>
+
+<table><tr><td><img src="assets/logo.webp" alt="" width="34"></td><td><strong>AlertWork</strong></td></tr></table>
 
 ## The product
 
